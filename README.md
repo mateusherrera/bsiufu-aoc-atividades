@@ -5,3 +5,5 @@ Atividades realizadas na disciplina de Arquitetura e Organização de Computador
 ## Sobre as práticas
 
 Algumas praticas feitas em Assembly durante a disciplina.
+
+Ferramenta utilizada: Mars.
